@@ -1,9 +1,5 @@
 # Demine Robot model H by Robotec
 
-<p align="center">
-  <img src="https://github.com/robotec-ua/demine_robot_h_info/blob/main/doc/images/model.jpg" />
-</p>
-
 The remote-controlled explosive ordnance disposal (EOD) robot is designed to provide enhanced bomb disposal capabilities to EOD teams.
 
 The robot offers high reliability and excellent maneuverability. It can be used to identify and disarm booby traps, fireworks, improvised, explosive devices and other dangerous objects in closed areas, buildings and vehicles. It also performs reconnaissance, monitoring and investigation of objects in exceptionally dangerous conditions.
